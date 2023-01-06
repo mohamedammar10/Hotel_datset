@@ -1,4 +1,4 @@
-# Hotel_datset
+# Hotel_Booking dataset
 In this dataset I wrote a code to generate fake hotel names, perform string masking , encryption, decryption
 
 this code can help if you want to create fake names/strings to add to your dataset.
